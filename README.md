@@ -27,9 +27,9 @@ python app.py
 
 ### Pictures
 
-[app](./picture/app.png)
+![app](./picture/app.png)
 
 
-[calculating](./picture/calculating.png)
+![calculating](./picture/calculating.png)
 
 
