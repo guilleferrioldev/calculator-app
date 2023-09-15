@@ -18,7 +18,7 @@ python -r requirements.txt
 
 ### Run 
 
-# Open the app folder and run the following command
+Open the app folder and run the following command
 
 ```
 python app.py
@@ -26,10 +26,6 @@ python app.py
 ```
 
 ### Pictures
-
-![app](./picture/app.png)
-
-
-![calculating](./picture/calculating.png)
+![app](./picture/calculating.png)
 
 
