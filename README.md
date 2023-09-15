@@ -25,7 +25,7 @@ python app.py
 
 ```
 
-### Pictures
+### Picture
 ![app](./picture/calculating.png)
 
 
